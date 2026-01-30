@@ -1,24 +1,25 @@
 # Hi there, I'm Md. Mahmudul Hasan (Polash) 👋
 
-I am a **Digital Marketer & UX/UI Designer** with a passion for building user-friendly websites and scalable e-commerce brands. Currently based in **Bogura, Bangladesh**.
+I help agencies & business owners build high-performing **WordPress & Shopify** websites. I am also a **Meta Ads & Digital Marketing Expert** and am currently working as a **Project Manager at Rain Assembly**.
 
-### 🛠️ Tech Stack & Skills
-* **Design:** Figma, Adobe Photoshop, Illustrator, XD
-* **Web Development:** HTML5, CSS3, JavaScript, Shopify (Liquid), WordPress
-* **Marketing Tools:** Google AI Studio, GoHighLevel (GHL), Facebook Ads
+Based in **Bogura, Bangladesh**.
 
 ### 🚀 What I Do (Services)
-Here are the services I offer to my clients:
-* ✅ **Digital Marketing & SEO Strategy**
-* ✅ **Web Design & Development** (Shopify & WordPress focus)
-* ✅ **Mobile App UI/UX Design**
-* ✅ **E-commerce Brand Setup** (e.g., Fably Fashion)
+* 💻 **Web Development:** High-converting WordPress & Shopify websites.
+* 📈 **Digital Marketing:** Meta Ads (Facebook/Instagram) & SEO Strategy.
+* 🤝 **Project Management:** Managing agency workflows and teams.
+
+### 🛠️ Tech Stack & Skills
+* **CMS:** WordPress, Shopify (Liquid), Wix
+* **Marketing:** Meta Ads Manager, GoHighLevel (GHL), Google Analytics
+* **Languages:** HTML5, CSS3, JavaScript
+* **Tools:** Plesk, cPanel, Trello/Asana (for PM)
 
 ### 🏏 Personal Interests
 * Founder of **Team Tinyflow** (Cricket)
-* Content Creator & Tech Enthusiast
+* Tech Enthusiast & Content Creator
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/mahmudulbisd](https://linkedin.com/in/mahmudulbisd)
-* **Website:** [ https://netwisehost.com/ )
-* **Email:** mahmudul.bisd@gmail.com##
+* **Website:** https://evansandwalker.com
+* **Email:** mahmudul.bisd@gmail.com
