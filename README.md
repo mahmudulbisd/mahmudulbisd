@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Md. Mahmudul Hasan (Polash) 👋
 
-<!--
-**mahmudulbisd/mahmudulbisd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Digital Marketer & UX/UI Designer** with a passion for building user-friendly websites and scalable e-commerce brands. Currently based in **Bogura, Bangladesh**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+* **Design:** Figma, Adobe Photoshop, Illustrator, XD
+* **Web Development:** HTML5, CSS3, JavaScript, Shopify (Liquid), WordPress
+* **Marketing Tools:** Google AI Studio, GoHighLevel (GHL), Facebook Ads
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do (Services)
+Here are the services I offer to my clients:
+* ✅ **Digital Marketing & SEO Strategy**
+* ✅ **Web Design & Development** (Shopify & WordPress focus)
+* ✅ **Mobile App UI/UX Design**
+* ✅ **E-commerce Brand Setup** (e.g., Fably Fashion)
+
+### 🏏 Personal Interests
+* Founder of **Team Tinyflow** (Cricket)
+* Content Creator & Tech Enthusiast
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/mahmudulbisd](https://linkedin.com/in/mahmudulbisd)
+* **Website:** [ https://netwisehost.com/ )
+* **Email:** mahmudul.bisd@gmail.com##
