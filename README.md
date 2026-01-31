@@ -16,7 +16,7 @@ Based in **Bogura, Bangladesh**.
 * **Tools:** Plesk, cPanel, Trello/Asana (for PM)
 
 ### 🏏 Personal Interests
-* Founder of **Team Tinyflow** (Cricket)
+* Founder of **Net Wise Host** (Hosting Company)
 * Tech Enthusiast & Content Creator
 
 ### 📫 Connect with Me
